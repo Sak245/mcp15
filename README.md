@@ -168,10 +168,4 @@ The project uses several key dependencies:
 - MCP-Use (>=1.2.8)
 - MCP[CLI] (>=1.6.0)
 
-## License
 
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
